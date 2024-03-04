@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @Dhineshrajm
+- 👀 I’m interested in Web Development
+- 🌱 I'm currently learning new technologies and expanding my skillset.
+- 💻 In my free time, I enjoy working on side projects and contributing to open-source.
+- 💞️ I’m looking to collaborate on Website Development
+- 📫 You can reach me via email at dhineshrajcse@gmail.com and Linkedin,Instagram
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a huge fan of space exploration and have always dreamt of becoming an astronaut!
