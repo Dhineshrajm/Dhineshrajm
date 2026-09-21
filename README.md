@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dhineshrajm
-- 👀 I’m interested in Web Development,Freelancing.
+- 👀 I’m interested in Full Stack Web & Mobile App Development,Freelancing.
 - 🌱 I'm currently learning new technologies and expanding my skillset.
 - 😄Every Projects are Private
 - 💻 In my free time, I enjoy working on side projects and contributing to open-source.
@@ -14,7 +14,7 @@
 
 🚀 Here's what I'm up to:
 
-Building custom web applications using the latest frontend and backend technologies, including React.js, Node.js, Express.js, and MongoDB.
+Building custom web applications using the latest frontend and backend technologies..
 Designing and developing custom WordPress themes and plugins to meet client needs and preferences.
 Collaborating with clients to understand their business goals and translating requirements into actionable development plans.
 Providing end-to-end website solutions, from initial concept and design to development, deployment, and maintenance.
